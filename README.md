@@ -28,8 +28,6 @@ Engage in discussions and share your own learning experiences!
 
 ### Let's embark on this JavaScript adventure together
 
-<<<<<<< HEAD
-connect with me[Twitter](https://twitter.com/utkarshumre_)
 =======
 connect with me
 [Twitter](https://twitter.com/utkarshumre_)
