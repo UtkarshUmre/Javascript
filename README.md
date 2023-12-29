@@ -28,6 +28,5 @@ Engage in discussions and share your own learning experiences!
 
 ### Let's embark on this JavaScript adventure together
 
-=======
 connect with me
 [Twitter](https://twitter.com/utkarshumre_)
